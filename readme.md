@@ -2,7 +2,8 @@
 
 Chrome extension that improves the GitHub experience.
 
-[![Github.ExpandinizR](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/cbehdjjcilgnejbpnjhobkiiggkedfib)
+[![Github.ExpandinizR](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/cbehdjjcilgnejbpnjhobkiiggkedfib)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub.expandinizr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub.expandinizr?ref=badge_shield)
+
 
 Currently enhances the following:
 
@@ -57,3 +58,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgithub.expandinizr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgithub.expandinizr?ref=badge_large)
